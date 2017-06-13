@@ -1,2 +1,2 @@
 # Login-Register-FiveM
-A pretty shitty resource from me
+A pretty poor resource from me
